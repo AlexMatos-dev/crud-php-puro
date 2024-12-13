@@ -22,4 +22,3 @@ Este é um projeto de gerenciamento de contatos feito com PHP e SQLite. O sistem
 * SQLite;
 * HTML;
 * CSS;
-* JavaScript.
